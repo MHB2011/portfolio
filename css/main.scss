@@ -406,6 +406,10 @@ img {
     align-items: center;
     height: 5rem;
 
+    .social {
+      display: flex;
+    }
+
     .social .fab {
       color: #fff;
       margin-right: 1rem;

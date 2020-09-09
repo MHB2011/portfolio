@@ -650,6 +650,12 @@ img {
   height: 5rem;
 }
 
+#main-footer.footer-content .social {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 #main-footer.footer-content .social .fab {
   color: #fff;
   margin-right: 1rem;
