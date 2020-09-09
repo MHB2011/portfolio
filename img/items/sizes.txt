@@ -1,0 +1,8 @@
+w: 427 px
+h: 320 px
+
+circle: 225px
+
+square 130px
+
+overlay #333 10%
